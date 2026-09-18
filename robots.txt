@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spo1004.github.io/zero-based-budgeting/sitemap.xml
